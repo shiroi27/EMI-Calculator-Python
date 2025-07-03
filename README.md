@@ -40,7 +40,7 @@ A sleek and functional EMI (Equated Monthly Installment) calculator built with P
 
 ---
 
-🧠 What I Learned
+## 🧠 What I Learned
 	•	Used financial formulas to calculate EMI 💹
 	•	Practiced tk.Frame, .place() layout management
 	•	Designed a functional & visually appealing desktop tool
@@ -59,12 +59,12 @@ Let’s connect and grow together! 🌱✨
 
 ---
 
-📜 License
+## 📜 License
 
 This project is open-source and free to use under the MIT License.
 
 ---
 
-🔖 Hashtags
+## 🔖 Hashtags
 
 #Python #Tkinter #EMICalculator #100DaysOfCode #PythonProjects #GUIApp #FinanceTool #MadeWithPython
