@@ -1,5 +1,6 @@
 ## 📸 Preview  
-![EMI Calculator App Screenshot](https://github.com/shiroi27/EMI-Calculator-Python/assets/your-image-path/preview.png)
+![EMI Calculator App Screenshot](https://github.com/user-attachments/assets/78cda5d3-292e-4628-8bbe-1a00fd7e4452)
+
 
 ---
 
