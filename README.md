@@ -38,7 +38,7 @@ A sleek and functional EMI (Equated Monthly Installment) calculator built with P
    python EMI_Calculator.py
 ```
 
-⸻
+---
 
 🧠 What I Learned
 	•	Used financial formulas to calculate EMI 💹
@@ -46,7 +46,7 @@ A sleek and functional EMI (Equated Monthly Installment) calculator built with P
 	•	Designed a functional & visually appealing desktop tool
 	•	Applied precise UI/UX alignment in a static window layout
 
-⸻
+---
 
 🤝 Connect With Me
 
@@ -56,13 +56,13 @@ Let’s connect and grow together! 🌱✨
 	•	🐦 Twitter: @shiroi_27
 	•	💼 GitHub: shiroi27
 
-⸻
+---
 
 📜 License
 
 This project is open-source and free to use under the MIT License.
 
-⸻
+---
 
 🔖 Hashtags
 
