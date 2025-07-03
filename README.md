@@ -41,10 +41,10 @@ A sleek and functional EMI (Equated Monthly Installment) calculator built with P
 ---
 
 ## 🧠 What I Learned
-	•	Used financial formulas to calculate EMI 💹
-	•	Practiced tk.Frame, .place() layout management
-	•	Designed a functional & visually appealing desktop tool
-	•	Applied precise UI/UX alignment in a static window layout
+- Used financial formulas to calculate EMI 💹
+- Practiced tk.Frame, .place() layout management
+- Designed a functional & visually appealing desktop tool
+- Applied precise UI/UX alignment in a static window layout
 
 ---
 
